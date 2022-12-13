@@ -29,6 +29,7 @@
 .img{
   height: 700px;
   background-size: cover;
+    position:sticky;
   background-image:url("https://media.istockphoto.com/photos/chocoloate-shortbread-cookies-in-glass-jar-close-up-view-at-cafe-picture-id1348197034?b=1&k=20&m=1348197034&s=170667a&w=0&h=QkZfp8eNwoYGfZ-NC0HfRx3HSFT1t3rU9vNHbWiyCBg=")
 }
 .para1{
